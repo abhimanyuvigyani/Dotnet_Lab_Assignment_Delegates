@@ -1,7 +1,7 @@
 
 using System;
 
-class Salary_Calculator
+class Salary_Calculator_Que_6
 {
     
     delegate double SalaryPart(double basicSalary);
