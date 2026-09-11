@@ -14,7 +14,7 @@ class Que_3
         Console.WriteLine("ye hai method 2 obviously");
     }
 
-    public static void Main1()
+    public static void Main()
     {
         Sir_ye_3rd_assignment_hai_ya_4th d1 = Method1;
 
