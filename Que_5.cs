@@ -1,7 +1,7 @@
 
 using System;
 
-class Notification_Assignment
+class Notification_Assignment_Que_5
 {
     
     delegate void NotificationChannel_IIT_Chaumuhan();
